@@ -1,6 +1,8 @@
-# eris-lavalink
+# vertbot-eris-lavalink
 
 A [Lavalink](https://github.com/Frederikam/Lavalink) client for [eris](https://github.com/abalabahaha/eris)
+
+This is a modified version of [eris-lavalink](https://github.com/briantanner/eris-lavalink) for personal use with my discord bot with modified features.
 
 ## Links
 - **[Documentation](https://briantanner.github.io/eris-lavalink/)**
